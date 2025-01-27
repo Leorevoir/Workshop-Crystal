@@ -1,8 +1,7 @@
-# ex1: syntax basics
+# ex1: function basics
 # forbidden keywords "for, while, if, ternary operators"
 # read carefully the TODO tasks and use Crystal builtin methods !
 # there is a `print` function but for this exercice, I recommend using `puts`
-# puts "hello world!"
 
 NAMES = ["Alice", "Hugo", "Anna", "Bernard"]
 
