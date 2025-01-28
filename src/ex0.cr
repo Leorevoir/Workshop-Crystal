@@ -14,11 +14,14 @@ puts "Hello, " + "World!"
 #TODO: print "zebi" if `age` is above `18`.
 # easy ? Try to do it without `if` `else` keywords !
 # hint: look for `unless` keyword!
-age = 17
+def check_age(age)
+    puts "zebi" unless age < 18
+end
 
-puts "zebi" unless age < 18
+check_age 17
+check_age 18
 
-#TODO: increment and print `count` until `count` >= 10. If `count` is divisble by 3, skip it.
+#TODO: increment and print `count` until `count` >= 10. If `count` is divisible by 3, skip it.
 # easy ? Try to do it without `while` or `for` keywords !
 # hint: look for `until` keyword !
 count = 0
