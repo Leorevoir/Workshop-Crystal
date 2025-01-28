@@ -54,6 +54,6 @@ git clone https://github.com/Leorevoir/Workshop-Crystal.git
 
 # 🛠️ Exercises
 
-- [**ex0** - Syntax basics](./docs/ex0.md)
-- [**ex1** - Method and Array](./docs/ex1.md)
-- [**ex2** - Types and function](./docs/ex2.md)
+- [**ex0** - Syntax basics](https://github.com/Leorevoir/Workshop-Crystal/blob/master/docs/ex0.md)
+- [**ex1** - Method and Array](https://github.com/Leorevoir/Workshop-Crystal/blob/master/docs/ex1.md)
+- [**ex2** - Types and function](https://github.com/Leorevoir/Workshop-Crystal/blob/master/docs/ex2.md)
